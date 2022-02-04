@@ -13,3 +13,8 @@
     <img align="center" src="https://github.com/CyberpunkGru/CyberpunkGru/blob/main/image/giphy.gif" width="450" height="270">
   </a>
 </p>
+<hr/>
+
+<samp>
+I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills👐, strong organizational skills👮‍, and meticulous attention to detail.
+</samp>
