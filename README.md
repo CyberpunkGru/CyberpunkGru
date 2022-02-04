@@ -9,7 +9,7 @@
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/ekramasif">
-    <img align="center" src="https://github.com/GruDev325/GruDev325/blob/main/image/giphy.gif" width="450" height="270">
+  <a href="https://github.com/CyberpunkGru">
+    <img align="center" src="https://github.com/CyberpunkGru/CyberpunkGru/blob/main/image/giphy.gif" width="450" height="270">
   </a>
 </p>
